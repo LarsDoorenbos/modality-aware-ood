@@ -2,7 +2,7 @@
 <h1>Modality-Aware Out-of-Distribution Detection for Multi-Modal Action Recognition</h1>
 
 [**Lars Doorenbos**](https://scholar.google.com/citations?user=i2LqZCwAAAAJ&hl=en)<sup>1,2</sup>&nbsp;·&nbsp;
-[**Duch Manh Vu**](https://scholar.google.com/citations?user=i2LqZCwAAAAJ&hl=en)<sup>1</sup>&nbsp;·&nbsp;
+**Duc Manh Vu**<sup>1</sup>&nbsp;·&nbsp;
 [**Serdar Ozsoy**](https://scholar.google.com/citations?user=6jXE6SYAAAAJ&hl=en)<sup>1</sup> &nbsp;·&nbsp;
 [**Juergen Gall**](https://scholar.google.de/citations?user=1CLaPMEAAAAJ)<sup>1,2</sup>
 

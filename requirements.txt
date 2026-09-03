@@ -1,0 +1,17 @@
+# Environment used by the original DPU training setup (Python 3.10, CUDA 11.3).
+--extra-index-url https://download.pytorch.org/whl/cu113
+
+torch==1.11.0+cu113
+torchvision==0.12.0+cu113
+mmcv-full==1.2.7
+mmaction2==0.13.0
+
+# Direct dependencies imported by the HMDB/EPIC training and evaluation code.
+av==14.2.0
+imageio==2.31.1
+numpy==1.23.5
+pandas==1.4.2
+scikit-learn==1.2.2
+scipy==1.10.1
+soundfile==0.11.0
+tqdm==4.65.0

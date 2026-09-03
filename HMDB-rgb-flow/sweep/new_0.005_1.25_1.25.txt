@@ -1,0 +1,6 @@
+Dataset: Kinetics. OOD: UCF, Model: models/log_video_flow_Kinetics_near_ood_lr_0.0001_bsz_64_20_adam_single_pred_dynamic_a2d_max_hellinger__max_ood_hellinger_0.1_entropy_0.1_start_epoch_10_nn_k_3_mixup_alpha_10.01_best.pt, Near-OOD
+Maha full Covariance - FPR@95: 63.565891472868216, AUROC: 76.67772439820482
+Dataset: Kinetics. OOD: UCF, Model: models/log_video_flow_Kinetics_near_ood_lr_0.0001_bsz_64_20_adam_single_pred_dynamic_a2d_max_hellinger__max_ood_hellinger_0.1_entropy_0.1_start_epoch_10_nn_k_3_mixup_alpha_10.02_best.pt, Near-OOD
+Maha full Covariance - FPR@95: 61.423908608731125, AUROC: 77.24897490820074
+Dataset: Kinetics. OOD: UCF, Model: models/log_video_flow_Kinetics_near_ood_lr_0.0001_bsz_64_20_adam_single_pred_dynamic_a2d_max_hellinger__max_ood_hellinger_0.1_entropy_0.1_start_epoch_10_nn_k_3_mixup_alpha_10.01_best.pt, Near-OOD
+Maha full Covariance - FPR@95: 63.565891472868216, AUROC: 76.67772439820482
